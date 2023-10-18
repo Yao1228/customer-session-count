@@ -32,8 +32,8 @@ Additionally, page-view events contain the url of the page the customer visited,
 they came from an external location.
 
 A small sample of this data can be found below:
+<img width="1571" alt="data" src="https://github.com/Yao1228/customer-session-count/assets/147175519/e5a1a7aa-fe0d-408a-b377-f5ec01f46f34">
 
-![](images/data.png)
 
 If you put all these events on a timeline for each user, you will find short periods of high activity, 
 followed by longer periods of inactivity. 
