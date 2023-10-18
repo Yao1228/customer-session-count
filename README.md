@@ -38,12 +38,13 @@ A small sample of this data can be found below:
 If you put all these events on a timeline for each user, you will find short periods of high activity, 
 followed by longer periods of inactivity. 
 
-![](images/timeline.png)
+![timeline](https://github.com/Yao1228/customer-session-count/assets/147175519/83790ae8-1a76-45a2-9060-c4de185404af)
+
 
 
 These high activity periods can be considered as a users' session.
 
-![](images/sessions.png)
+![sessions](https://github.com/Yao1228/customer-session-count/assets/147175519/34b02864-373b-4515-b527-f649a2366e8e)
 
 
 ### Step 1: Sessionize
@@ -60,6 +61,7 @@ We'd like to make the most essential information easily available in the databas
 The first metric here should return the median amount of sessions someone had before they had a session in which they made a purchase. 
 The second metric does the same except it returns the median session duration someone had before the first session in which they had a purchase.
 
-![](images/metrics.png)
+![metrics](https://github.com/Yao1228/customer-session-count/assets/147175519/ae1fd640-efe8-416e-9122-405b6c51c73a)
+
 
 
